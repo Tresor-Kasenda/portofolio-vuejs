@@ -6,36 +6,35 @@
 <div class="mx-auto max-w-6xl py-20">
   <h2 class="text-4xl font-medium">
     Love to hear from you, <br> Get in touch
-  </h2>
-  <div class="grid grid-cols-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-x-8 py-10">
-    <div class="p-5 bg-indigo-300 rounded space-y-8 border border-indigo-300 mb-8">
-      <div class="flex items-center justify-between">
-        <div class="flex flex-col gap-2 ">
-          <h3>LinkedIn</h3>
-          <a href="" ></a>
-        </div>
-        <img src="" class="h-10 w-10 border-none" alt="">
+  </h2><div class="grid grid-cols-3 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-3 gap-x-8 py-6">
+  <div class="p-5 bg-gray-200 rounded space-y-8 border border-indigo-300 mb-8">
+    <div class="flex items-center justify-between">
+      <div class="flex flex-col gap-2 ">
+        <h3 class="text-lg text-indigo-950 font-medium">LinkedIn</h3>
+        <a href="" class="text-sm text-indigo-950 font-semibold tracking-wide leading-tight">Tresor kasenda</a>
       </div>
-    </div>
-    <div class="p-5 bg-indigo-300 rounded space-y-8 border border-indigo-300 mb-8">
-      <div class="flex items-center justify-between">
-        <div class="flex flex-col gap-2 ">
-          <h3>Github</h3>
-          <a href="" ></a>
-        </div>
-        <img src="" class="h-10 w-10 border-none" alt="">
-      </div>
-    </div>
-    <div class="p-5 bg-indigo-300 rounded space-y-8 border border-indigo-300 mb-8">
-      <div class="flex items-center justify-between">
-        <div class="flex flex-col gap-2 ">
-          <h3>Twitter</h3>
-          <a href="" ></a>
-        </div>
-        <img src="" class="h-10 w-10 border-none" alt="">
-      </div>
+      <img src="" class="h-10 w-10 rounded-full object-cover border-none" alt="">
     </div>
   </div>
+  <div class="p-5 bg-gray-200 rounded space-y-8 border border-indigo-300 mb-8">
+    <div class="flex items-center justify-between">
+      <div class="flex flex-col gap-2 ">
+        <h3 class="text-lg text-indigo-950 font-medium">Github</h3>
+        <a href=""  class="text-sm text-indigo-950 font-semibold tracking-wide leading-tight">Tresor kasenda</a>
+      </div>
+      <img src="" class="h-10 w-10 rounded-full object-cover border-none" alt="">
+    </div>
+  </div>
+  <div class="p-5 bg-gray-200 rounded space-y-8 border border-indigo-300 mb-8">
+    <div class="flex items-center justify-between">
+      <div class="flex flex-col gap-2 ">
+        <h3 class="text-lg text-indigo-950 font-medium">Twitter</h3>
+        <a href=""  class="text-sm text-indigo-950 font-semibold tracking-wide leading-tight">Tresor kasenda</a>
+      </div>
+      <img src="" class="h-10 w-10 rounded-full object-cover border-none" alt="">
+    </div>
+  </div>
+</div>
   <div class="w-full bg-red-300 text-white py-3 px-6 font-semibold rounded shadow-sm">
     <span>The field is required</span>
   </div>
